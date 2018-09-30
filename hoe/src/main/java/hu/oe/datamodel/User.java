@@ -43,7 +43,7 @@ public class User implements Serializable {
     private String name;
     private List<Levels> levels = new ArrayList<>();
 
-    public List<Levels> getAccessories() {
+    public List<Levels> getLevels() {
         return levels;
     }
 
