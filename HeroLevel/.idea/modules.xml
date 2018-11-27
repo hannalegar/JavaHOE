@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HeroLevel.iml" filepath="$PROJECT_DIR$/HeroLevel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herolevel-dao-jpa/herolevel-dao-jpa.iml" filepath="$PROJECT_DIR$/herolevel-dao-jpa/herolevel-dao-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herolevel-dao-model/herolevel-dao-model.iml" filepath="$PROJECT_DIR$/herolevel-dao-model/herolevel-dao-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herolevel-services-cdi/herolevel-services-cdi.iml" filepath="$PROJECT_DIR$/herolevel-services-cdi/herolevel-services-cdi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenproject1/herolevel-web_servlet-jsp/herolevel-web_servlet-jsp.iml" filepath="$PROJECT_DIR$/mavenproject1/herolevel-web_servlet-jsp/herolevel-web_servlet-jsp.iml" />
+    </modules>
+  </component>
+</project>
